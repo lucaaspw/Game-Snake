@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    outline: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.placar{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #999;
+    margin: 0 30px;
+    font-size: 2em;
+    text-align: center;
+    line-height: 98px;
+}
